@@ -1,10 +1,10 @@
 
-TODO: A customizable card widget for displaying a banner with text and an image. Provides options for setting the image source, banner color, and height, and includes a shadow effect for a polished look.
+ A customizable card widget for displaying a banner with text and an image. Provides options for setting the image source, banner color, and height, and includes a shadow effect for a polished look.
 
 
 ## Features
 
-TODO: Customizable banner text and color: The HomeCard widget allows you to set the banner text and color, making it easy to customize the look of the card to fit your app's design.
+ Customizable banner text and color: The HomeCard widget allows you to set the banner text and color, making it easy to customize the look of the card to fit your app's design.
 
 Image support: The widget includes support for displaying an image, with options for setting the image source and adjusting the size.
 
@@ -23,7 +23,7 @@ Reusability: The HomeCard widget is designed to be reusable, allowing you to eas
 
 ## Getting started
 
-TODO: Install the package: To use the HomeCard widget, you first need to install the package in your Flutter project. You can do this by adding the following line to your pubspec.yaml file:
+ Install the package: To use the HomeCard widget, you first need to install the package in your Flutter project. You can do this by adding the following line to your pubspec.yaml file:
 
 yaml
 Copy code
@@ -65,7 +65,7 @@ This is just a brief overview of how to get started with the HomeCard widget. Fo
 
 ## Usage
 
-TODO:Basic usage: To create a basic HomeCard widget, you can pass in the required parameters for the image URL, banner text, card height, and banner color. Here's an example:
+Basic usage: To create a basic HomeCard widget, you can pass in the required parameters for the image URL, banner text, card height, and banner color. Here's an example:
 
 less
 Copy code
@@ -126,7 +126,7 @@ HomeCard(
 
 ## Additional information
 
-TODO: 
+
 
 Where to find more information
 The ciniphile package containing the HomeCard widget can be found on pub.dev. You can find more information about the package, including its version history, dependencies, and documentation.
