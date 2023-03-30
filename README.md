@@ -1,15 +1,3 @@
-<!--
-This README describes the package. If you publish this package to pub.dev,
-this README's contents appear on the landing page for your package.
-
-For information about how to write a good package README, see the guide for
-[writing package pages](https://dart.dev/guides/libraries/writing-package-pages).
-
-For general information about developing packages, see the Dart guide for
-[creating packages](https://dart.dev/guides/libraries/create-library-packages)
-and the Flutter guide for
-[developing packages and plugins](https://flutter.dev/developing-packages).
--->
 
 TODO: A customizable card widget for displaying a banner with text and an image. Provides options for setting the image source, banner color, and height, and includes a shadow effect for a polished look.
 
@@ -31,7 +19,7 @@ Reusability: The HomeCard widget is designed to be reusable, allowing you to eas
 
 
 
-Regenerate response
+
 
 ## Getting started
 
@@ -72,7 +60,7 @@ This is just a brief overview of how to get started with the HomeCard widget. Fo
 
 
 
-Regenerate response
+
 
 
 ## Usage
@@ -135,9 +123,6 @@ HomeCard(
 
 
 
-<!-- ```dart
-const like = 'sample';
-``` -->
 
 ## Additional information
 
