@@ -1,3 +1,5 @@
 library ciniphile;
 
-export 'src/ciniphilenew.dart';
+import 'package:flutter/material.dart';
+
+part 'src/ciniphilenew.dart';

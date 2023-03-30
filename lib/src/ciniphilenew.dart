@@ -1,4 +1,6 @@
-import 'package:flutter/material.dart';
+part of ciniphile;
+
+
 
 class HomeCard extends StatelessWidget {
   const HomeCard({Key? key, required this.imag, required this.text,required this.height,required this.bannerColr})
